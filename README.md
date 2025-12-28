@@ -39,5 +39,4 @@ After the `AnalyzeLogsAndSystems` agent identified the technical root cause (a m
 * **Autonomous Code Generation:** Prompting and "harnessing" an AI agent with `Code Execution` capabilities.
 * **Incident Response (IR):** Automating the full IR lifecycle, from log analysis to reporting.
 * **Log Analysis:** Using **Python (Pandas)** in an automated context to parse and analyze security logs.
-* **Prompt Engineering:** Crafting precise, role-based instructions for specialist AI agents.
 * **Cloud-Native Security:** Leveraging next-generation AI platforms (Gemini 2.5) for security automation.
